@@ -7,4 +7,4 @@ https://github.com/MilenaYun/posmotri-v-okno-fd
 * Псевдоклассы
 * Псевдоэдементы
 * Работа с интерактивным состоянием элементов
-* Pixel Perfect сверка с макетом.
+* Pixel Perfect сверка с макетом
